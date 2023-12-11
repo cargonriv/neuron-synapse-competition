@@ -1,1 +1,1 @@
-# neuron-synapse-competition
+# Neuron Synapse Competition
